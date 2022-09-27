@@ -6,7 +6,7 @@ import com.serotonin.mango.rt.event.AlarmLevels;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class alarmTest {
+public class AlarmLevelsTest {
 
     @Test
     @DisplayName("Alarm Levels Description test")
