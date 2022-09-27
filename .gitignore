@@ -1,4 +1,5 @@
 mangoDB/
+mangoSource/build.properties
 apache-ant-1.10.12/
 apache-tomcat-9.0.65/
 openlogic-openjdk-8u342-b07-windows-64/
